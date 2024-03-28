@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gemini Assistant</string>
+    <string name="back">Back</string>
+    <string name="new_chat">New</string>
+    <string name="no_chats_found">No Chats Found</string>
+    <string name="detail">Detail</string>
+</resources>
